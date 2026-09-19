@@ -6,4 +6,5 @@ module and_beh_intra (
   always @(a, b)
     y = #5 (a & b);
 
+
 endmodule
